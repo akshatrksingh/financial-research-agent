@@ -1,0 +1,23 @@
+# LLM & Agent Framework
+groq==0.11.0
+langchain==0.3.0
+langchain-community==0.3.0
+langgraph==0.2.28
+
+# Vector DB & Embeddings
+chromadb==0.5.0
+sentence-transformers==3.0.1
+
+# Tools
+tavily-python==0.5.0
+yfinance==0.2.40
+
+# Utils
+python-dotenv==1.0.1
+pydantic>=2.7.4
+
+# UI
+streamlit==1.39.0
+
+# Testing
+pytest==8.3.0
