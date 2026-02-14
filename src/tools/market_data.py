@@ -51,5 +51,5 @@ def get_stock_data(ticker: str) -> Dict[str, Any]:
 
 
 if __name__ == "__main__":
-    data = get_stock_data("AAPL")
+    data = get_stock_data("NVDA")
     print(data)
